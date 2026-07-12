@@ -1,6 +1,59 @@
 .Border{
 
     color:white;
-    background-color: red
+    background-color: red;
+    font-size: 25px;
 }
 
+.number1{
+    color:black;
+    background-color:rgb(255,167,167); 
+    font-size: 25px;  
+}
+
+#number2{
+        color:blue;
+         font-size: 25px;
+          font-size: 25px;
+       
+}
+
+.number3{
+    color:black;
+    background-color:rgb(255,167,167);
+     font-size: 25px;
+
+}
+
+#number4{
+    color:black;
+    background-color: green;
+     font-size: 25px;
+}
+
+.number5{
+    color:black;
+    background-color:rgb(255,167,167);
+     font-size: 25px;
+}
+
+.b1,
+.b2{
+ font-family: Helvetica, "Times New Roman", sans-serif;
+  font-size: 28px;
+
+}
+
+.b1{
+    color:white;
+    background-color: black;
+
+    
+
+}
+
+.b2{
+    background-color: yellow;
+    color:black;
+    
+}
